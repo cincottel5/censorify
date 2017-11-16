@@ -1,6 +1,6 @@
 {
     "author":       "Yelko Carvajal",
-    "name":         "censorify",
+    "name":         "censorify_yelko",
     "version":      "0.1.0",
     "description":  "Censor words out of text",
     "main":         "censortext",
