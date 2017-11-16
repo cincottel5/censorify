@@ -4,8 +4,9 @@ var customCensoredWords = [];
 
 function censor(inStr)
 {
-    for(idx in getCensoredWords()) {
-        inStr = inStr.replace(censoredWords[idx], "****");
+    var censoredWordsList = getCensoredWords();
+    for(idx in censoredWords()) {
+        inStr = inStr.replace(censoredWordsList[idx], "****");
     }
 
     return inStr;
