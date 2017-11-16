@@ -22,5 +22,5 @@ function getCensoredWords()
 }
 
 exports.censor = censor;
-exports.addCensoredWord = censoredWords;
+exports.addCensoredWord = addCensoredWord;
 exports.getCensoredWords = getCensoredWords;
