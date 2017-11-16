@@ -1,0 +1,16 @@
+{
+    "author":       "Yelko Carvajal",
+    "name":         "censorify",
+    "version":      "0.1.0",
+    "description":  "Censor words out of text",
+    "main":         "censortext",
+    "dependencies": {},
+    "engines":      {
+        "node":     "*"
+    },
+    "repository":   {
+        "type":     "git",
+        "url":      "https://github.com/cincottel5/censorify.git"
+    },
+    "keywords":     ["censor", "words"]
+}
